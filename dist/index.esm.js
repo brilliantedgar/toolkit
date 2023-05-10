@@ -4378,9 +4378,9 @@ var PanelFooter = function (_a) {
             cakePriceUsd ? (React.createElement(PriceLink, { href: priceLinkZfai, target: "_blank" },
                 React.createElement(Icon$v3, { width: "30px", mr: "6px" }),
                 React.createElement(Text, { color: "textSubtle", bold: true }, "$" + cakePriceUsd.toFixed(4)))) : (React.createElement(Skeleton, { width: 60, height: 24 })),
-            cakePriceUsd ? (React.createElement(PriceLink, { href: priceLinkZaif, target: "_blank" },
+           /* cakePriceUsd ? (React.createElement(PriceLink, { href: priceLinkZaif, target: "_blank" },
                 React.createElement(Icon$v2, { width: "30px", mr: "6px", ml: "8px" }),
-                React.createElement(Text, { color: "textSubtle", bold: true }, "$" + zaifPriceUsd.toFixed(4)))) : (React.createElement(Skeleton, { width: 60, height: 24 }))
+                React.createElement(Text, { color: "textSubtle", bold: true }, "$" + zaifPriceUsd.toFixed(4)))) : (React.createElement(Skeleton, { width: 60, height: 24 })) */
         ),
         React.createElement(SocialEntry2, null, socials.map(function (social, index) {
             var Icon = Icons$1[social.icon];
