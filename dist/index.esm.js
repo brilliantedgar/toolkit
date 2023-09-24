@@ -335,7 +335,7 @@ var Icon$1I = function (props) {
 =======
     return (React.createElement(Svg, __assign({ viewBox: "0 0 96 96" }, props),
         React.createElement("circle", { cx: "48", cy: "48", r: "48", fill: "#F5F3F3" }),
-        React.createElement("path", { fill: "#2F3031", d: "M48 64.9742V81.6924L68.5762 52.7999L48 64.9742Z" }),
+        React.createElement("path", { fill: "#2F3030", d: "M48 64.9742V81.6924L68.5762 52.7999L48 64.9742Z" }),
         React.createElement("path", { fill: "#08060B", d: "M48 39.1768V60.696L68.5762 48.5218L48 39.1768Z" }),
         React.createElement("path", { fill: "#2F3030", d: "M48 14.3999V39.1771L68.5762 48.5221L48 14.3999Z" }),
         React.createElement("path", { fill: "#828384", d: "M48 64.9742V81.6924L27.4238 52.7999L48 64.9742Z" }),
