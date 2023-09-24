@@ -3350,10 +3350,10 @@ var useKonamiCheatCode = function (matchedCodeHandler) {
 
 var baseColors = {
     failure: "#ED4B9E",
-    primary: "#218CFF",
-    primaryBright: "#459fff",
-    primaryDark: "#218CFF",
-    secondary: "#2a45ca",
+    primary: "#303036",
+    primaryBright: "#343135",
+    primaryDark: "#F9F9F9",
+    secondary: "#44515e",
     success: "#31D0AA",
     warning: "#FFB237",
 };
