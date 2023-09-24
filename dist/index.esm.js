@@ -4140,12 +4140,12 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/zaigarbounty",
+                href: "https://t.me/NanoswapBase",
             },
-            {
-                label: "Português",
-                href: "https://t.me/zaigarfinance",
-            },
+            // {
+            //     label: "Português",
+            //     href: "https://t.me/zaigarfinance",
+            // },
             // {
             //   label: "Bahasa Indonesia",
             //   href: "https://t.me/PancakeSwapIndonesia",
@@ -4195,7 +4195,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/ZaigarF",
+        href: "https://twitter.com/NanoswapBase",
     },
 ];
 var MENU_HEIGHT = 64;
