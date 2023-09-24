@@ -3373,10 +3373,10 @@ var useKonamiCheatCode = function (matchedCodeHandler) {
 
 var baseColors = {
     failure: "#ED4B9E",
-    primary: "#2962ff",
-    primaryBright: "#2962ff",
-    primaryDark: "#344afb",
-    secondary: "#2979ff",
+    primary: "#218CFF",
+    primaryBright: "#459fff",
+    primaryDark: "#218CFF",
+    secondary: "#2a45ca",
     success: "#31D0AA",
     warning: "#FFB237",
 };
@@ -3392,17 +3392,17 @@ var lightColors = __assign(__assign(__assign({}, baseColors), additionalColors),
         inverseBubblegum: "linear-gradient(139.73deg, #F3EFFF 0%, #E5FDFF 100%)",
         cardHeader: "linear-gradient(111.68deg, #F2ECF2 0%, #E8F2F6 100%)",
         blue: "linear-gradient(180deg, #A7E8F1 0%, #94E1F2 100%)",
-        violet: "linear-gradient(180deg, #E2C9FB 0%, #4db254 100%)",
-        violetAlt: "linear-gradient(180deg, #CBD7EF 0%, #4db254 100%)",
+        violet: "linear-gradient(180deg, #E2C9FB 0%, #344afb 100%)",
+        violetAlt: "linear-gradient(180deg, #CBD7EF 0%, #344afb 100%)",
         gold: "linear-gradient(180deg, #FFD800 0%, #FDAB32 100%)",
     } });
-var darkColors = __assign(__assign(__assign({}, baseColors), additionalColors), { secondary: "#118fab", background: "#343135", backgroundDisabled: "#2962ff", backgroundAlt: "#27262c", cardBorder: "#383241", contrast: "#FFFFFF", dropdown: "#1E1D20", dropdownDeep: "#100C18", invertedContrast: "#132026", input: "#0d47a1", inputSecondary: "#262130", primaryDark: "#344afb", tertiary: "#2962ff", text: "#FFFFFF", textDisabled: "#cccccc", textSubtle: "#c9c4d4", disabled: "#524B63", gradients: {
+var darkColors = __assign(__assign(__assign({}, baseColors), additionalColors), { secondary: "#448aff", background: "#12131a", backgroundDisabled: "#2962ff", backgroundAlt: "#1b1e29", cardBorder: "#383241", contrast: "#FFFFFF", dropdown: "#1E1D20", dropdownDeep: "#100C18", invertedContrast: "#132026", input: "#1C2938", inputSecondary: "#344252", primaryDark: "#1C2938", tertiary: "#696c80", text: "#FFFFFF", textDisabled: "#cccccc", textSubtle: "#c9c4d4", disabled: "#524B63", gradients: {
         bubblegum: "linear-gradient(139.73deg, #313D5C 0%, #262d33 100%)",
-        inverseBubblegum: "linear-gradient(139.73deg, #2a4f54 0%, #315c5c 100%)",
+        inverseBubblegum: "linear-gradient(139.73deg, #546084 0%, #434345 100%)",
         cardHeader: "linear-gradient(166.77deg, #3b4a55 0%, #262d33 100%)",
-        blue: "linear-gradient(180deg, #00707F 0%, #19778C 100%)",
-        violet: "linear-gradient(180deg, #499199 0%, #4db254 100%)",
-        violetAlt: "linear-gradient(180deg, #437075 0%, #4db254 100%)",
+        blue: "linear-gradient(180deg, #2962ff 0%, #344afb 100%)",
+        violet: "linear-gradient(180deg, #2962ff 0%, #344afb 100%)",
+        violetAlt: "linear-gradient(180deg, #437075 0%, #344afb 100%)",
         gold: "linear-gradient(180deg, #FFD800 0%, #FDAB32 100%)",
     } });
 
